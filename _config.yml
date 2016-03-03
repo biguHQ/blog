@@ -9,7 +9,7 @@ title: "Bigu"
 description: > # this means to ignore newlines until "email:"
    Carona universitária com &#9829;
 
-email: hey@biguapp.co
+email: gabriel_almeida@me.com
 #blog logo
 logo: "/assets/images/bigu_logo.jpg"
 # blog cover
@@ -21,7 +21,7 @@ author_image: "/assets/images/bigu_logo.jpg"
 
 paginate:	5
 
-url: "http://blog.biguapp.co" # the base hostname & protocol for your site
+url: "http://biguHQ.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@bigu'
