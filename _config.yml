@@ -11,18 +11,18 @@ description: > # this means to ignore newlines until "email:"
 
 email: gabriel_almeida@me.com
 #blog logo
-logo: "assets/images/bigu_logo.jpg"
+logo: "/assets/images/bigu_logo.jpg"
 # blog cover
-cover: "assets/images/background_image.jpg"
+cover: "/assets/images/background_image.jpg"
 
 name: 'Bigu'
 author: 'Bigu'
-author_image: "assets/images/bigu_logo.jpg"
+author_image: "/assets/images/bigu_logo.jpg"
 
 paginate:	5
 
-url: "http://biguHQ.github.io/" # the base hostname & protocol for your site
-baseurl: "/blog"
+url: "http://biguHQ.github.io/blog" # the base hostname & protocol for your site
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@bigu'
 
