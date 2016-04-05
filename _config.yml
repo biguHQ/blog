@@ -21,8 +21,8 @@ author_image: "/assets/images/bigu_logo.jpg"
 
 paginate:	5
 
-url: "http://biguHQ.github.io" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://biguHQ.github.io/" # the base hostname & protocol for your site
+baseurl: "/blog"
 #used to display twitter cards
 twitter_handle: '@bigu'
 
